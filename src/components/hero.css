@@ -1,0 +1,24 @@
+.flipkartimg{
+    background-image:url("./Flipkart-logo.png");
+    background-repeat:no-repeat;
+    width:4rem;
+    height:4rem;
+    background-size:contain;
+    align-self:center;
+    margin-right:2rem;
+}
+.amazonimg{
+    background-repeat:no-repeat;
+    width:4rem;
+    border: 1px;
+    border-radius:1px;
+    align-self:center;
+    background-size:contain;
+    height:3rem;
+    background-image:url("./amazon-logo.jpg");
+}
+.shoes{
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-image: url("./shoes-pic.png");
+}

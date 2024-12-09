@@ -1,0 +1,7 @@
+.logo{
+    background-image:url("/Nike-logo.png");
+    background-size:contain;
+    background-repeat: no-repeat;
+    height:6rem;
+    width:8rem;
+}
